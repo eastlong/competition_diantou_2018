@@ -10,8 +10,8 @@ Team:
 
 
 # 比赛的详细细节 detail_1.png
-![image](https://github.com/wanlida/2018_diantou_PhotovoltaicPowerStation/raw/master/pictures/competition.png)      
-![image](https://github.com/wanlida/2018_diantou_PhotovoltaicPowerStation/raw/master/pictures/detail_1.png)   
-![image](https://github.com/wanlida/2018_diantou_PhotovoltaicPowerStation/raw/master/pictures/detail_2.png)     
+![image](https://github.com/eastlong/competition_diantou_2018/blob/master/pictures/competition.png)      
+![image](https://github.com/eastlong/competition_diantou_2018/blob/master/pictures/detail_1.png)   
+![image](https://github.com/eastlong/competition_diantou_2018/blob/master/pictures/detail_2.png)     
 ## 排名  
 ![image](https://github.com/eastlong/competition_diantou_2018/blob/master/pictures/rank.PNG) 
